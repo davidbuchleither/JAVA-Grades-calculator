@@ -1,5 +1,6 @@
 # JAVA-Grades-calculator
 
+
 # project description
 
 Our project is a grade calculator, which enables the user to get a complete overview of his study achievements.
