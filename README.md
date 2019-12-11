@@ -1,8 +1,11 @@
 # JAVA-Grades-calculator
 
-# members
+
+
+# Members
 
 Adrian Rosser, Audric Strümpler, David Buchleither, Remy Meyer, Thomas Penner 
+
 
 # Introduction, goals, boundary conditions
 
@@ -25,7 +28,7 @@ The condition is that this program can be used by any device.
 
 # Operation manual
 
-// Bedienungsanleitung noch schreiben 
+// Bedienungsanleitung noch schreiben (besser wenn das Programm fertig ist)
 
 
 # User Stories
@@ -82,8 +85,10 @@ The condition is that this program can be used by any device.
 
 # Release plan
 
-
-#  Documentation Sprint 1
+// Einfügen über trello
 
 
 # Documentation Sprint 1
+
+
+# Documentation Sprint 2
