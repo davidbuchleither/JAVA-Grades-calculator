@@ -1,6 +1,8 @@
 # JAVA-Grades-calculator
 
+# members
 
+Adrian Rosser, Audric Strümpler, David Buchleither, Remy Meyer, Thomas Penner 
 
 # Introduction, goals, boundary conditions
 
@@ -18,8 +20,12 @@ The condition is that this program can be used by any device.
 
 # Build Instructions
 
+// Buildanleitung noch schreiben 
+
 
 # Operation manual
+
+// Bedienungsanleitung noch schreiben 
 
 
 # User Stories
