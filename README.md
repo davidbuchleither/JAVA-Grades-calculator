@@ -13,9 +13,13 @@ Our project is a grade calculator.
 
 The goal is to give the student an overview of his academic achievements.
 
-He has the possibility to create individual modules and to equip them with subordinated subjects. Furthermore, the grades obtained during the course can be used in the languages German, French and Swiss German, whereby the student receives his grades in all 3 country scales.
+He has the possibility to create individual modules and to equip them with subordinated subjects. 
 
-The passed modules are highlighted in green, the failed modules in red. In addition, it is possible to save the scores that have been inserted and completed.
+Furthermore, the grades obtained during the course can be used in the languages German, French and Swiss German, whereby the student receives his grades in all 3 country scales.
+
+The passed modules are highlighted in green, the failed modules in red. 
+
+In addition, it is possible to save the scores that have been inserted and completed.
 
 The condition is that this program can be used by any device.
 
