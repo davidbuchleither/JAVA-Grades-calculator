@@ -14,3 +14,6 @@ The student receives his grades in all 3 country scales.
 The passed modules are highlighted in green, the failed modules in red. 
 
 In addition, it is possible to save the scores that have been earned and inserted.
+
+
+# program code
